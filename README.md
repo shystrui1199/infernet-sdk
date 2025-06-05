@@ -38,7 +38,7 @@ The default target (`make`) will:
 
 ### Using within your own contracts
 
-To import Infernet as a library, you can install the code in your repo with [forge](https://book.getfoundry.sh/forge/):
+To import Infernet as a library, you can install the code in your repo with [forge](https://getfoundry.sh/forge/):
 
 ```bash
 forge install https://github.com/ritual-net/infernet-sdk
